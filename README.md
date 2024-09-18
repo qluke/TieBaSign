@@ -21,3 +21,7 @@
 
 https://github.com/gwtak/TieBaSign
 
+
+## 可用性报告
+
+2024.07 - 2024.09 已经连续签到2个月
